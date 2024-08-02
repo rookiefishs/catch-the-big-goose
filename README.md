@@ -1,3 +1,5 @@
+[在线预览](https://rookiefishs.github.io/catch-the-big-goose/)
+
 ## 效果图:
 ![图1](1.png) 
 
